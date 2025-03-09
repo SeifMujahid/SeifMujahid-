@@ -1,5 +1,4 @@
-# SeifMujahid
--<h1 align="center">Hi 👋, I'm Seif Mujahid</h1>
+# SeifMujahid-<h1 align="center">Hi 👋, I'm Seif Mujahid</h1>
 <h3 align="center">Frontend Web Developer (Angular).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifmujahid&label=Profile%20views&color=0e75b6&style=flat" alt="seifmujahid" /> </p>
